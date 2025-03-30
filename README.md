@@ -1,6 +1,6 @@
 # Hey!
 
-👋 I'm a 16 y/o programming enthusiast who likes to develop games!
+👋 I'm a 17 y/o programming enthusiast who likes to develop games!
 
 ## Used languages
 
